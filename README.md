@@ -9,9 +9,9 @@ Link:
 
 
 ##Stack  
-Html
-CSS
-Javascript
+Html  
+CSS  
+Javascript  
 
 ##Layout and Design  
 
